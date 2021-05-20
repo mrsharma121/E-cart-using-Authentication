@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/E-cart-using-Authentication/static/css/main.2a8a04c2.chunk.css",
-    "main.js": "/E-cart-using-Authentication/static/js/main.dd641c3f.chunk.js",
-    "main.js.map": "/E-cart-using-Authentication/static/js/main.dd641c3f.chunk.js.map",
+    "main.css": "/E-cart-using-Authentication/static/css/main.243100cc.chunk.css",
+    "main.js": "/E-cart-using-Authentication/static/js/main.2899a204.chunk.js",
+    "main.js.map": "/E-cart-using-Authentication/static/js/main.2899a204.chunk.js.map",
     "runtime-main.js": "/E-cart-using-Authentication/static/js/runtime-main.c15fa40a.js",
     "runtime-main.js.map": "/E-cart-using-Authentication/static/js/runtime-main.c15fa40a.js.map",
     "static/js/2.03af7207.chunk.js": "/E-cart-using-Authentication/static/js/2.03af7207.chunk.js",
     "static/js/2.03af7207.chunk.js.map": "/E-cart-using-Authentication/static/js/2.03af7207.chunk.js.map",
     "index.html": "/E-cart-using-Authentication/index.html",
-    "static/css/main.2a8a04c2.chunk.css.map": "/E-cart-using-Authentication/static/css/main.2a8a04c2.chunk.css.map",
+    "static/css/main.243100cc.chunk.css.map": "/E-cart-using-Authentication/static/css/main.243100cc.chunk.css.map",
     "static/js/2.03af7207.chunk.js.LICENSE.txt": "/E-cart-using-Authentication/static/js/2.03af7207.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c15fa40a.js",
     "static/js/2.03af7207.chunk.js",
-    "static/css/main.2a8a04c2.chunk.css",
-    "static/js/main.dd641c3f.chunk.js"
+    "static/css/main.243100cc.chunk.css",
+    "static/js/main.2899a204.chunk.js"
   ]
 }
